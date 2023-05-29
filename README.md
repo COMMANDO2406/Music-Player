@@ -22,7 +22,7 @@ Music Player command-line application. It utilizes the pygame library to play mu
      ```bash
     cd music-player
 
-4. Modify the music_folder variable in the main function of the music_player.py script to point to the directory where your music files are stored.
+4. Modify the music_folder variable in the main function of the music.py script to point to the directory where your music files are stored.
 
 5. Run the Music Player application:
 
