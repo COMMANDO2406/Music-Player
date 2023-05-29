@@ -32,6 +32,7 @@ Music Player command-line application. It utilizes the pygame library to play mu
 The repository has the following structure:
 
 ├── music.py      # The main Python script for the Music Player
+
 └── README.md            # This README file
 
 ## License
